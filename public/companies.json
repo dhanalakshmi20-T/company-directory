@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Apex Technologies",
+    "location": "Bengaluru",
+    "industry": "Software",
+    "employees": 120
+  },
+  {
+    "name": "GreenFields Agri",
+    "location": "Mysuru",
+    "industry": "Agriculture",
+    "employees": 45
+  },
+  {
+    "name": "BlueWave Finance",
+    "location": "Chennai",
+    "industry": "Finance",
+    "employees": 200
+  },
+  {
+    "name": "Nova Health",
+    "location": "Bengaluru",
+    "industry": "Healthcare",
+    "employees": 85
+  },
+  {
+    "name": "EcoTrans Logistics",
+    "location": "Hyderabad",
+    "industry": "Logistics",
+    "employees": 60
+  },
+  {
+    "name": "BrightEdu",
+    "location": "Coimbatore",
+    "industry": "Education",
+    "employees": 30
+  },
+  {
+    "name": "PixelCraft Studios",
+    "location": "Bengaluru",
+    "industry": "Design",
+    "employees": 22
+  },
+  {
+    "name": "SolarNext",
+    "location": "Mysuru",
+    "industry": "Energy",
+    "employees": 50
+  },
+  {
+    "name": "FarmSense",
+    "location": "Mysuru",
+    "industry": "Agriculture",
+    "employees": 18
+  },
+  {
+    "name": "Quantum Analytics",
+    "location": "Chennai",
+    "industry": "Data Science",
+    "employees": 150
+  },
+  {
+    "name": "Café Rio",
+    "location": "Bengaluru",
+    "industry": "Hospitality",
+    "employees": 12
+  },
+  {
+    "name": "UrbanBuild",
+    "location": "Hyderabad",
+    "industry": "Construction",
+    "employees": 300
+  }
+]
